@@ -67,9 +67,7 @@ python main.py
 ```
 
 ---
-
-## 📧 Exemplo de Relatório Gerado
-
+🎥 Veja o projeto em ação: [LinkedIn Post](https://www.linkedin.com/posts/victorsabino36_automaaexaetoderelataejrios-anaerlisededados-activity-7304238162300567553-J4ya?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEpQjCAB7CwjLGDgnlDgn5ymhZ3otRWD54c)  
 
 ---
 
