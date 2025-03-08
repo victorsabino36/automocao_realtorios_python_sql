@@ -1,0 +1,11 @@
+google-cloud-bigquery
+pandas
+pyarrow
+jupyter
+ipykernel
+db-dtypes
+google-cloud-bigquery-storage
+faker
+matplotlib
+seaborn   
+reportlab   
