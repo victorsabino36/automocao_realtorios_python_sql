@@ -24,6 +24,10 @@ Imagina que um **lider de operacoes** precisa acompanhar o desempenho da frota d
 
 ---
 
+🎥 Veja o projeto em ação: [LinkedIn Post](https://www.linkedin.com/posts/victorsabino36_automaaexaetoderelataejrios-anaerlisededados-activity-7304238162300567553-J4ya?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEpQjCAB7CwjLGDgnlDgn5ymhZ3otRWD54c)  
+
+---
+
 ## 📊 Fluxo da Automacao
 
 ```mermaid
@@ -67,9 +71,7 @@ python main.py
 ```
 
 ---
-🎥 Veja o projeto em ação: [LinkedIn Post](https://www.linkedin.com/posts/victorsabino36_automaaexaetoderelataejrios-anaerlisededados-activity-7304238162300567553-J4ya?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEpQjCAB7CwjLGDgnlDgn5ymhZ3otRWD54c)  
 
----
 
 ## 📢 Contribuicao
 
